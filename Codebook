@@ -1,0 +1,39 @@
+Codebook
+Summarization of the data fields in tidy_Data.txt.
+
+Identifiers
+
+subject_ID - Test subject ID
+activity_ID - Activity type ID performed while measuring
+activity_Type - Activity performed while measuring
+
+Measurements
+
+timeBodyAcc_MagnitudeMean
+timeBodyAcc_MagnitudeStdDev
+timeGravityAcc_MagnitudeMean
+timeGravityAcc_MagnitudeStdDev
+timeBodyAccJer_kMagnitudeMean
+timeBodyAccJer_kMagnitudeStdDev
+timeBodyGyro_MagnitudeMean
+timeBodyGyro_MagnitudeStdDev
+timeBodyGyroJer_kMagnitudeMean
+timeBodyGyroJer_kMagnitudeStdDev
+freqBodyAcc_MagnitudeMean
+freqBodyAcc_MagnitudeStdDev
+freqBodyAccJer_kMagnitudeMean
+freqBodyAccJer_kMagnitudeStdDev
+freqBodyGyro_MagnitudeMean
+freqBodyGyro_MagnitudeStdDev
+freqBodyGyroJer_kMagnitudeMean
+freqBodyGyroJer_kMagnitudeStdDev
+
+
+Activity Type key
+
+WALKING (1): subject was walking during measurement, level plane
+WALKING_UPSTAIRS (2): subject was walking up stairs during measurement
+WALKING_DOWNSTAIRS (3): subject was walking down stairs during measurement
+SITTING (4): subject was sitting during measurement,
+STANDING (5): subject was standing during measurement,
+LAYING (6): subject was laying during measurement,
